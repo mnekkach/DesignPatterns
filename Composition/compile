@@ -1,0 +1,1 @@
+g++ -g main.cpp ./cpp/ClassA.cpp ./cpp/Logger.cpp -I ./hxx/ -o main
