@@ -1,0 +1,1 @@
+g++ -g main.cxx ./src/cxx/*.cxx -I ./src/hxx -o main
